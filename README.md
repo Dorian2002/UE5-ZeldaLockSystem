@@ -29,7 +29,7 @@ You can find all the uassets I used except the map in the project.
 
 ## Start game :
 
-- Download the .zip on (https://dorianf.itch.io/zeldalocksystem)[https://dorianf.itch.io/zeldalocksystem].
+- Download the .zip on https://dorianf.itch.io/zeldalocksystem.
 
 - Unzip project, then move to UE5-ZeldaLockSystem\Windows\ and double click on TemplateCameraLock.exe
 
